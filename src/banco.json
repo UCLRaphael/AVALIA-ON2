@@ -1,10 +1,7 @@
 {
-    "produtos": {
-        "1": {
-            "id_pedido": 123
-        },
-        "2": {
-            "id_pedido": 999
-        }
-    }
+    "produtos": [
+        { "id": 1, "nome": "Dipirona", "preco": 12.50 },
+        { "id": 2, "nome": "Ibuprofeno", "preco": 18.99 },
+        { "id": 3, "nome": "Paracetamol", "preco": 10.00 }
+    ]
 }
